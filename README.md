@@ -1,4 +1,4 @@
-# Platilla para práctica Marzo 2024
+# Plantilla para práctica Marzo 2024
 Empty Views Activity vacía para ser descargada para proyectos en Android Studio.
 
 #Requerimientos:
